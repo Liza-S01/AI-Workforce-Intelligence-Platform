@@ -1,0 +1,14 @@
+Position: Senior Data Analyst
+Department: Business Intelligence
+Location: Bangalore / Hybrid
+
+Key Responsibilities:
+- Extract, transform, and analyze complex enterprise datasets using SQL and Python.
+- Design interactive executive dashboards and KPI scorecards in PowerBI and Tableau.
+- Perform exploratory data analysis (EDA), cohort analysis, and retention metrics.
+- Translate business requirements into actionable data models and stakeholder reports.
+
+Required Qualifications:
+- 3+ years of expertise in SQL queries, PostgreSQL, and Data Modeling.
+- Proficiency in Python (Pandas, NumPy, Matplotlib) and PowerBI.
+- Strong communication and statistical hypothesis testing skills.

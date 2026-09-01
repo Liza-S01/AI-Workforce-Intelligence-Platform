@@ -1,0 +1,13 @@
+Position: Senior Backend Engineer
+Department: Core Engineering
+Location: Remote
+
+Key Responsibilities:
+- Build robust, scalable, async backend microservices using Python and FastAPI.
+- Design relational schemas in PostgreSQL and caching layers with Redis.
+- Maintain CI/CD pipelines, container orchestration, and automated pytest suites.
+- Integrate third-party AI APIs, authentication mechanisms, and event queues.
+
+Required Qualifications:
+- 4+ years of backend development in Python, FastAPI/Django, and PostgreSQL.
+- Solid understanding of distributed systems, REST APIs, Docker, and Git.

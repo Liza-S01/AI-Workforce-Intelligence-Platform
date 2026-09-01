@@ -1,0 +1,11 @@
+CourseID,CourseTitle,TargetSkill,Category,DurationHours,Provider,Level
+CRS-101,Production MLOps with Docker & Kubernetes,MLOps,Engineering,24,DeepLearning.AI,Advanced
+CRS-102,AWS Certified Machine Learning & Cloud Architect,AWS,Cloud,32,Amazon Web Services,Intermediate
+CRS-103,Generative AI and Large Language Model Deployment,Generative AI,AI & Data,18,Google Cloud Skills,Advanced
+CRS-104,Advanced SQL & Modern Data Warehousing,SQL,AI & Data,16,Coursera,Intermediate
+CRS-105,Docker Containers for Microservices & Python Apps,Docker,Engineering,14,Linux Foundation,Beginner
+CRS-106,"Executive Leadership, Agile & Change Management",Agile Leadership,Management,20,Harvard Online,Executive
+CRS-107,PowerBI & Interactive Business Analytics,PowerBI,AI & Data,12,Microsoft Learn,Intermediate
+CRS-108,Strategic Enterprise B2B Sales & Negotiation,B2B Sales,Sales,15,Salesforce Academy,Advanced
+CRS-109,FastAPI Masterclass: Building Async Microservices,FastAPI,Engineering,16,TestDriven.io,Intermediate
+CRS-110,Lean Six Sigma Black Belt: Operational Excellence,Lean Manufacturing,Operations,40,ASQ,Advanced

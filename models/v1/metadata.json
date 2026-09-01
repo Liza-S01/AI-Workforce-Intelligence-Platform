@@ -1,0 +1,74 @@
+{
+  "model_name": "Enterprise Attrition Risk Predictor",
+  "version": "v1.0",
+  "algorithm": "LogisticRegression",
+  "training_date": "2026-09-01 00:11:25",
+  "metrics": {
+    "Precision": 0.6538,
+    "Recall": 0.3617,
+    "F1_Score": 0.4658,
+    "ROC_AUC": 0.824
+  },
+  "comparison_results": {
+    "LogisticRegression": {
+      "Precision": 0.6538,
+      "Recall": 0.3617,
+      "F1_Score": 0.4658,
+      "ROC_AUC": 0.824
+    },
+    "RandomForest": {
+      "Precision": 0.5556,
+      "Recall": 0.1064,
+      "F1_Score": 0.1786,
+      "ROC_AUC": 0.7997
+    },
+    "GradientBoosting": {
+      "Precision": 0.5556,
+      "Recall": 0.2128,
+      "F1_Score": 0.3077,
+      "ROC_AUC": 0.7729
+    }
+  },
+  "features": {
+    "numeric": [
+      "Age",
+      "DailyRate",
+      "DistanceFromHome",
+      "HourlyRate",
+      "MonthlyIncome",
+      "MonthlyRate",
+      "NumCompaniesWorked",
+      "PercentSalaryHike",
+      "TotalWorkingYears",
+      "TrainingTimesLastYear",
+      "YearsAtCompany",
+      "YearsInCurrentRole",
+      "YearsSinceLastPromotion",
+      "YearsWithCurrManager",
+      "EnvironmentSatisfaction",
+      "JobInvolvement",
+      "JobLevel",
+      "JobSatisfaction",
+      "RelationshipSatisfaction",
+      "WorkLifeBalance",
+      "TenureRatio",
+      "SatisfactionComposite",
+      "IncomePerYear",
+      "PromotionGap"
+    ],
+    "categorical": [
+      "BusinessTravel",
+      "Department",
+      "EducationField",
+      "Gender",
+      "JobRole",
+      "MaritalStatus",
+      "OverTime"
+    ]
+  },
+  "thresholds": {
+    "high_risk": 0.65,
+    "medium_risk": 0.35,
+    "low_risk": 0.0
+  }
+}

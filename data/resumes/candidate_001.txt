@@ -1,0 +1,20 @@
+CANDIDATE: Alex Rivera
+TITLE: Machine Learning & MLOps Engineer
+EMAIL: alex.rivera@example.com | GITHUB: github.com/alexrivera-ml
+
+SUMMARY:
+Results-driven Machine Learning Engineer with 4 years of experience building and deploying end-to-end ML and deep learning models to production. Specialized in MLOps, PyTorch, Docker, Kubernetes, AWS, and FastAPI microservices.
+
+SKILLS:
+- Languages & Frameworks: Python, PyTorch, Scikit-Learn, FastAPI, SQL, Bash
+- MLOps & DevOps: Docker, Kubernetes, MLflow, AWS (SageMaker, S3, EC2), CI/CD, Git
+- Data Engineering: Pandas, Spark, Redis, PostgreSQL
+
+EXPERIENCE:
+- Senior ML Engineer at TechCorp (2023 - Present):
+  Deployed production LLM fine-tuning pipelines and real-time fraud detection systems. Reduced inference latency by 45% using TorchScript and Docker containerization.
+- Machine Learning Developer at DataFlow Inc (2021 - 2023):
+  Built computer vision and tabular classification models. Automated MLOps tracking with MLflow.
+
+EDUCATION:
+- B.S. in Computer Science, University of California (2021)

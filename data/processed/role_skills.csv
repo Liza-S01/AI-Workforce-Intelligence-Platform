@@ -1,0 +1,12 @@
+JobRole,RequiredSkills,Domain
+Research Scientist,"Python, Machine Learning, Statistics, Deep Learning, SQL, Data Visualization",AI & Data
+Data Analyst,"SQL, Python, PowerBI, Excel, Statistics, Tableau, Data Cleaning",AI & Data
+ML Engineer,"Python, MLOps, Docker, AWS, PyTorch, Kubernetes, Feature Engineering",Engineering
+Backend Engineer,"Python, FastAPI, PostgreSQL, Docker, Redis, CI/CD, Git",Engineering
+Sales Executive,"B2B Sales, CRM, Negotiation, Market Analysis, Account Management, Communication",Sales
+Sales Rep,"Lead Generation, Customer Relationship, Product Demos, Cold Calling, CRM",Sales
+Lab Technician,"Quality Assurance, Equipment Calibration, Lab Safety, Data Recording, SOP Compliance",Operations
+Manufacturing Director,"Lean Manufacturing, Supply Chain, Six Sigma, Budgeting, Plant Management",Operations
+Healthcare Rep,"Medical Terminology, Regulatory Compliance, Client Advisory, Healthcare Ethics",Healthcare
+Engineering Manager,"Agile Leadership, Project Management, System Architecture, Mentorship, Resource Allocation",Management
+HR Specialist,"Talent Acquisition, Employee Relations, HR Policies, Payroll Systems, Conflict Resolution",Human Resources

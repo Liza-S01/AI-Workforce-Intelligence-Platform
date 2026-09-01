@@ -1,0 +1,28 @@
+services:
+  backend:
+    build:
+      context: .
+    image: hr_ai_app:latest
+    container_name: hr_ai_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - HOST=0.0.0.0
+    command: ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    restart: unless-stopped
+
+  frontend:
+    image: hr_ai_app:latest
+    container_name: hr_ai_frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://backend:8000
+    command: ["streamlit", "run", "frontend/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    depends_on:
+      - backend
+    restart: unless-stopped

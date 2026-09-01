@@ -1,0 +1,15 @@
+Position: Machine Learning Engineer
+Department: Engineering / AI Labs
+Location: Hybrid / Remote
+
+Key Responsibilities:
+- Design, train, and deploy production machine learning and deep learning pipelines.
+- Implement MLOps best practices with Docker, Kubernetes, MLflow, and CI/CD.
+- Architect high-throughput inference APIs using FastAPI and PyTorch.
+- Optimize feature stores, vector databases, and real-time streaming data.
+
+Required Qualifications:
+- 3+ years experience with Python, PyTorch/TensorFlow, and Scikit-Learn.
+- Strong knowledge of MLOps, Containerization (Docker), AWS/GCP cloud platforms.
+- Experience building RESTful APIs with FastAPI or Flask.
+- BS/MS in Computer Science, Data Science, or related engineering discipline.

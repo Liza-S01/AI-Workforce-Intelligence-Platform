@@ -1,0 +1,20 @@
+CANDIDATE: Sarah Chen
+TITLE: Senior Business Intelligence & Data Analyst
+EMAIL: sarah.chen@example.com
+
+SUMMARY:
+Data Analyst with 5+ years of experience delivering actionable business intelligence, customer lifetime value analytics, and executive dashboards across retail and fintech sectors.
+
+SKILLS:
+- Analytics & BI: PowerBI, Tableau, Advanced Excel, Looker, Statistical Analysis
+- Programming & Databases: SQL (PostgreSQL, MySQL, Snowflake), Python (Pandas, Seaborn), R
+- Business Strategy: A/B Testing, Cohort Analysis, KPI Definition, Stakeholder Management
+
+EXPERIENCE:
+- Lead BI Analyst at RetailHub (2022 - Present):
+  Built cross-functional dashboards in PowerBI used by 200+ managers. Optimized complex SQL queries saving 12 hours of report generation weekly.
+- Data Analyst at FinMetrics (2019 - 2022):
+  Conducted exploratory data analysis on 5M+ transactions, identifying churn drivers.
+
+EDUCATION:
+- M.S. in Business Analytics, NYU (2019)

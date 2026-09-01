@@ -1,0 +1,20 @@
+CANDIDATE: Marcus Vance
+TITLE: Backend & Cloud Software Engineer
+EMAIL: marcus.vance@example.com
+
+SUMMARY:
+Software Engineer with 4 years experience architecting resilient REST APIs, microservices, and asynchronous background pipelines using Python, FastAPI, PostgreSQL, Redis, and Docker.
+
+SKILLS:
+- Core Tech: Python, FastAPI, Django, PostgreSQL, Redis, SQLAlchemy, Pydantic
+- Cloud & Infrastructure: Docker, AWS (ECS, RDS, S3), Git, CI/CD GitHub Actions, Linux
+- Architecture: Microservices, Distributed Systems, Unit Testing (Pytest), JWT Auth
+
+EXPERIENCE:
+- Backend Engineer at CloudScale Solutions (2022 - Present):
+  Designed high-concurrency FastAPI microservices handling 15k requests/sec. Maintained automated pytest suite with 92% coverage.
+- Software Developer at AppCraft (2020 - 2022):
+  Developed REST APIs and managed PostgreSQL database migrations.
+
+EDUCATION:
+- B.Tech in Information Technology (2020)

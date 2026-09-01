@@ -1,0 +1,29 @@
+Timestamp,EmployeeID,ModelVersion,Probability,RiskLevel,Department,JobRole
+2026-09-01 00:13:55,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 00:13:55,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 00:13:55,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 00:23:28,1,v1.0,0.2474,LOW,Research & Development,Research Scientist
+2026-09-01 00:39:13,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 00:39:13,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 00:39:13,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 16:21:48,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 16:21:48,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 16:21:49,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 16:27:23,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 16:27:26,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 16:27:26,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 16:28:15,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 16:28:16,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 16:28:16,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 16:31:43,101,v1.0,0.3592,MEDIUM,Sales,Sales Executive
+2026-09-01 16:33:25,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-01 16:33:26,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-01 16:33:26,202,v1.0,0.9705,HIGH,Sales,Sales Rep
+2026-09-01 16:35:04,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
+2026-09-01 16:35:04,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
+2026-09-01 16:35:04,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
+2026-09-01 16:35:23,1,v1.0,0.1856,LOW,Research & Development,Research Scientist
+2026-09-01 16:36:32,1,v1.0,0.1631,LOW,Research & Development,Research Scientist
+2026-09-02 00:07:05,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
+2026-09-01 20:04:18,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
+2026-09-01 20:04:29,4,v1.0,0.0966,LOW,Research & Development,Research Scientist
