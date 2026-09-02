@@ -205,3 +205,8 @@ python -m pytest -v
   streamlit run frontend/app.py
   ```
   *(Dashboard UI at [http://localhost:8501](http://localhost:8501))*
+
+  ## 🌐 Live Cloud Demo
+- 🚀 **Live Interactive App (Streamlit)**: [https://ai-workforce-intelligence-platform-mdzvd4wsmuuxesqh2xbaoy.streamlit.app/](https://ai-workforce-intelligence-platform-mdzvd4wsmuuxesqh2xbaoy.streamlit.app/)
+- ⚡ **Live Backend Swagger API (Render)**: [https://hr-ai-backend-cuuc.onrender.com](https://hr-ai-backend-cuuc.onrender.com)
+
