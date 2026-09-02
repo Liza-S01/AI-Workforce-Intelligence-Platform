@@ -27,3 +27,6 @@ Timestamp,EmployeeID,ModelVersion,Probability,RiskLevel,Department,JobRole
 2026-09-02 00:07:05,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
 2026-09-01 20:04:18,1,v1.0,0.2075,LOW,Research & Development,Research Scientist
 2026-09-01 20:04:29,4,v1.0,0.0966,LOW,Research & Development,Research Scientist
+2026-09-02 13:40:48,105,v1.0,0.0405,LOW,Research & Development,Research Scientist
+2026-09-02 13:40:48,201,v1.0,0.0074,LOW,Sales,Sales Executive
+2026-09-02 13:40:48,202,v1.0,0.9705,HIGH,Sales,Sales Rep

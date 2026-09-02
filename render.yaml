@@ -1,0 +1,23 @@
+services:
+  # 1. FastAPI Backend Service
+  - type: web
+    name: hr-ai-backend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: PORT
+        value: 8000
+
+  # 2. Streamlit Frontend Service
+  - type: web
+    name: hr-ai-frontend
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0"
+    envVars:
+      - key: API_URL
+        fromService:
+          type: web
+          name: hr-ai-backend
+          property: host
